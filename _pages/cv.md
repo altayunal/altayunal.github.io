@@ -18,13 +18,12 @@ Education
 Work experience
 ======
 * September 2024 - Present: Graduate Research Assistant in New Jersey Institute of Technology
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Asst. Prof. Akshay Rangamani
 
 * September 2021 - August 2024: Research and Teaching Assistant in Istanbul Technical University
   * Teaching assistant for the following courses: BLG212E Microprocessor Systems, BLG222E Computer Organization, BLG231E Digital Circuits, BLG322E Computer Architecture, BLG351E Microcomputer Laboratory, YZV231E Probability and Statistics for Data Science
   * Mentor for undergraduate students in ITU Vision Lab.
+  * Supervisor: Prof. Gozde Unal
 
 Publications
 ======
