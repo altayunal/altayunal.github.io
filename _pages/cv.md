@@ -22,7 +22,7 @@ Work experience
 
 * September 2021 - August 2024: Research and Teaching Assistant in Istanbul Technical University
   * Teaching assistant for the following courses: BLG212E Microprocessor Systems, BLG222E Computer Organization, BLG231E Digital Circuits, BLG322E Computer Architecture, BLG351E Microcomputer Laboratory, YZV231E Probability and Statistics for Data Science
-  * Mentor for undergraduate students in ITU Vision Lab.
+  * Mentor for undergraduate students in ITU Vision Lab: Talha Sezer Cakir & Emircan Gundogdu.
   * Supervisor: Prof. Gozde Unal
 
 Publications
