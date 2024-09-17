@@ -25,15 +25,11 @@ Work experience
   * Mentor for undergraduate students in ITU Vision Lab: Talha Sezer Cakir & Emircan Gundogdu.
   * Supervisor: Prof. Gozde Unal
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
