@@ -1,9 +1,9 @@
 ---
 title: "A Study Regarding Machine Unlearning on Facial Attribute Data"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/face-unlearning
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Machine learning (ML) models require large amounts of data and many of the stored data is used to train ML models. However, the ML models learn insights about the data during their training and this raises privacy concerns of the individuals regarding personal data. These concerns led to the introduction of legislation focusing on the “right to be forgotten” and machine unlearning has emerged to address these concerns. Although machine unlearning studies focus on data privacy issues generally, machine unlearning is also used to fix the mistrained machine learning models as well. Mistraining may occur due to problems in the data such as mislabeling. Machine unlearning can solve this problem by discarding the information regarding the problematic data. In this study, the effects of machine unlearning on facial attribute classification are discovered. Experimental results on CelebA dataset show the effectiveness of machine unlearning methods. The code repository can be accessed at https://github.com/ituvisionlab/face-attribute-unlearning.'
 date: 2024-04-22
 venue: '2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
