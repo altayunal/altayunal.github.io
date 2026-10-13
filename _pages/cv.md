@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[Download my CV (PDF)]({{ base_path }}/files/Altay_Unal_CV.pdf)**
+
 Education
 ======
 * Ph.D in Data Science, New Jersey Institute of Technology, 2024 - present
